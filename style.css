@@ -1,0 +1,54 @@
+﻿
+
+body{
+    background-color:hsla(0, 0%, 100%, 1) ;
+    margin: 0;
+}
+
+@font-face{
+    font-family: mull;
+    src: url(Mulish-VariableFont_wght.ttf);
+}
+
+*{
+    box-sizing: border-box;
+}
+.cards{
+    display: flex !important;
+    justify-content: space-between !important;
+}
+
+.box{
+    display: flex !important;
+    justify-content: center !important;
+    
+}
+
+.card{
+    width: 213px !important;
+    height: 262px !important;
+    border: 1px solid !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
